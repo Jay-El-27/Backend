@@ -1,0 +1,1 @@
+console.log('Name: Joshua. Age: 20. Favourite programming language: Python.')
